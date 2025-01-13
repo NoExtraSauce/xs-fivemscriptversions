@@ -1,1 +1,1 @@
-{"version":"2.0.0", "notes":"minor fixes", "release_date":{"day":13,"month":1,"year":2025}}
+{"version":"2.0.0", "notes":"Major Update - QBCORE Support", "release_date":{"day":13,"month":1,"year":2025}}
