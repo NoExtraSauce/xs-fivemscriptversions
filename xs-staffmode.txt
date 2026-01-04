@@ -1,1 +1,1 @@
-{"version":"4.0.2", "notes":"minor fixes", "release_date":{"day":13,"month":1,"year":2025}}
+{"version":"4.0.2", "notes":"minor fixes & export rework", "release_date":{"day":04,"month":1,"year":2026}}
