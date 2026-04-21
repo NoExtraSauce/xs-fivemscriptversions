@@ -1,1 +1,1 @@
-{"version":"1.0.3", "notes":"Fixed ESX player jobs not being recognized", "release_date":{"day":12,"month":4,"year":2026}}
+{"version":"1.0.4", "notes":"Features Update", "release_date":{"day":21,"month":4,"year":2026}}
