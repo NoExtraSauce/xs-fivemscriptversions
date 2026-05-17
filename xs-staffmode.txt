@@ -1,1 +1,1 @@
-{"version":"4.0.3", "notes":"Small update removing QS inventory functions - never tested", "release_date":{"day":25,"month":4,"year":2026}}
+{"version":"4.0.4", "notes":"Fixed ace perm being ignored for staffmode", "release_date":{"day":17,"month":5,"year":2026}}
